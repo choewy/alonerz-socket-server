@@ -7,7 +7,7 @@ import './index.css';
 
 ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter basename='/every-post'>
+    <BrowserRouter basename='/every-post/'>
       <App />
     </BrowserRouter>
   </React.StrictMode>,
